@@ -1,0 +1,21 @@
+# === 原始素材：不随仓库分发 ===
+# 会员专栏、抖音图文、直播回放与切片字幕等，含付费内容与第三方平台内容，
+# 版权不属于本项目，请勿提交。
+references/sources/
+sources/
+*.docx
+*.mp4
+*.m4a
+*.zip
+
+# === 本地环境 ===
+.DS_Store
+Thumbs.db
+desktop.ini
+.last-update-check
+*.log
+
+# === 编辑器 ===
+.vscode/
+.idea/
+*.swp
